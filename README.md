@@ -1,0 +1,2 @@
+# NSFC LaTeX Template
+**copyleft**
